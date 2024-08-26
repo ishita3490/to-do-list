@@ -21,7 +21,7 @@ This project implements a simple ToDo application using the PERN stack: PostgreS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vickytilotia/PERN-ToDo-App.git
+   git clone https://github.com/ishita3490/to-do-list.git
    ```
 
 2. Navigate to the project directory:
